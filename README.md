@@ -86,7 +86,7 @@ NBA_ENDPOINT=https://api.sportsdata.io/v3/nba/scores/json/Players
 1. In the CLI type
 
 ```bash
-python3 setup_nba_data_lake.py
+python setup_nba_data_lake.py
 ```
 
 -You should see the resources were successfully created, the sample data was uploaded successfully and the Data Lake Setup Completed
